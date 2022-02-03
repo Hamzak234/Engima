@@ -1,0 +1,36 @@
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.deps.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.runtimeconfig.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.runtimeconfig.dev.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ref\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\bin\Debug\net5.0-windows\ders tekrar.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders_tekrar.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.AssemblyInfoInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.AssemblyInfo.cs
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ref\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar\obj\Debug\net5.0-windows\ders tekrar.genruntimeconfig.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.deps.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.runtimeconfig.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.runtimeconfig.dev.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ref\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\bin\Debug\net5.0-windows\ders tekrar.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders_tekrar.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.AssemblyInfoInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.AssemblyInfo.cs
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ref\ders tekrar.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayılara Göre Daire Grafiği Oluşturma Projesi\obj\Debug\net5.0-windows\ders tekrar.genruntimeconfig.cache
