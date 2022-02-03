@@ -1,2 +1,4 @@
 # Engima
-C# Girilen Değerlere Göre Grafik Oluşturma
+C# Girilen Değerlere Göre Grafik 
+Hazırlama
+
